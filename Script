@@ -4,12 +4,12 @@ local c = game:GetService("Players")
 local d = c.LocalPlayer
 
 local e = {
-    Name = "Dark.cc | Free product",
+    Name = "Sensei | Free product",
     LoadingTitle = "Injecting. . .",
-    LoadingSubtitle = "Made with love | @iceglock66",
+    LoadingSubtitle = "Fake Donate/Fake Purchase",
     ConfigurationSaving = {
         Enabled = true,
-        FileName = "dark.cc"
+        FileName = "Sei"
     },
     Discord = {
         Enabled = false,
@@ -18,10 +18,10 @@ local e = {
     },
     KeySystem = false,
     KeySettings = {
-        Title = "dark.cc | Free Product",
+        Title = "Sensei | Free product",
         Subtitle = "Key System",
         Note = "No key.",
-        FileName = "luapro777",
+        FileName = "luapro",
         SaveKey = true,
         GrabKeyFromSite = false,
         Key = {"DENISGAY123"}
